@@ -1,0 +1,23 @@
+{
+  "name": "@hani_salloum/filtering-package",
+  "version": "1.0.0",
+  "description": "A package to make the process of filtering quicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hani-Salloum/filtering-package.git"
+  },
+  "keywords": [
+    "filter",
+    "filtering"
+  ],
+  "author": "hani_salloum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hani-Salloum/filtering-package/issues"
+  },
+  "homepage": "https://github.com/Hani-Salloum/filtering-package#readme"
+}
